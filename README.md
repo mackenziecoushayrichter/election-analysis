@@ -22,4 +22,4 @@ The code I wrote found the following results of the election:
   * **Diana DeGette:** 73.8% (272,892 votes)
   * **Raymon Anthony Doane:** 3.1% (11,606 votes)
 * The winner of the election was:
-  * **Diana DeGette** who received 73.8% of the total votes
+  * **Diana DeGette** who received 73.8% of the total votes 
